@@ -1,0 +1,91 @@
+T1	LAW 2 34	ORDIN nr. 244 din 11 iunie 2019
+T2	TIME 20 34	11 iunie 2019
+T3	TIME 156 160	2019
+T4	ORG 181 198	MONITORUL OFICIAL
+T5	TIME 211 224	28 iunie 2019
+T6	LAW 277 304	Legea minelor nr. 85 / 2003
+T7	TIME 300 304	2003
+T8	LAW 383 420	Hotărârea Guvernului nr. 1.419 / 2009
+T9	ORG 393 403	Guvernului
+T10	TIME 416 420	2009
+T11	ORG 457 499	Agenției Naționale pentru Resurse Minerale
+T12	ORG 544 586	Agenției Naționale pentru Resurse Minerale
+T13	LAW 636 694	Licența de concesionare pentru explorare nr. 21.866 / 2019
+T14	TIME 690 694	2019
+T15	LOC 765 771	Borsec
+T16	LOC 774 787	Valea Cupelor
+T17	LOC 797 805	Harghita
+T18	ORG 823 864	Agenția Națională pentru Resurse Minerale
+T19	ORG 895 937	Societatea Comercială Romaqua Group - S.A.
+T20	LOC 952 958	Borsec
+T21	LOC 968 976	Harghita
+T22	LAW 1065 1123	Licența de concesionare pentru explorare nr. 21.871 / 2019
+T23	TIME 1119 1123	2019
+T24	LOC 1194 1200	Borsec
+T25	LOC 1203 1217	Valea Vinișoru
+T26	LOC 1227 1235	Harghita
+T27	ORG 1253 1294	Agenția Națională pentru Resurse Minerale
+T28	ORG 1325 1367	Societatea Comercială Romaqua Group - S.A.
+T29	LOC 1382 1388	Borsec
+T30	LOC 1398 1406	Harghita
+T31	LAW 1495 1553	Licența de concesionare pentru explorare nr. 21.867 / 2019
+T32	TIME 1549 1553	2019
+T33	LOC 1624 1630	Tamina
+T34	LOC 1632 1646	județul Brașov
+T35	ORG 1664 1705	Agenția Națională pentru Resurse Minerale
+T36	ORG 1736 1784	Societatea Comercială PILAR PROCARPATEN - S.R.L.
+T37	LOC 1799 1805	Brașov
+T38	LOC 1807 1821	județul Brașov
+T39	LAW 1912 1970	Licența de concesionare pentru explorare nr. 21.868 / 2019
+T40	TIME 1966 1970	2019
+T41	TIME 2026 2038	Poiana Lungă
+T42	LOC 2048 2052	Gorj
+T43	ORG 2070 2111	Agenția Națională pentru Resurse Minerale
+T44	ORG 2142 2188	Societatea Comercială ENERGOCARB SERV - S.R.L.
+T45	LOC 2210 2218	Broșteni
+T46	LOC 2228 2237	Mehedinți
+T47	LAW 2330 2388	Licența de concesionare pentru explorare nr. 21.869 / 2019
+T48	TIME 2384 2388	2019
+T49	LOC 2444 2459	Valea lui Milcu
+T50	LOC 2469 2478	Mehedinți
+T51	ORG 2496 2537	Agenția Națională pentru Resurse Minerale
+T52	ORG 2568 2608	Societatea Comercială MILARIMAR - S.R.L.
+T53	LOC 2623 2628	Motru
+T54	LOC 2638 2642	Gorj
+T55	LAW 2732 2790	Licența de concesionare pentru explorare nr. 21.972 / 2019
+T56	TIME 2786 2790	2019
+T57	LOC 2846 2860	Valea Pârâului
+T58	LOC 2870 2874	Gorj
+T59	ORG 2892 2933	Agenția Națională pentru Resurse Minerale
+T60	ORG 2964 3014	Societatea Comercială Gekko & Neka Invest - S.R.L.
+T61	LOC 3029 3038	Târgu Jiu
+T62	LOC 3048 3052	Gorj
+T63	LOC 3079 3081	RO
+T64	TIME 3130 3140	08-08-2019
+T65	LAW 3195 3228	ORDINUL nr. 285 din 25 iulie 2019
+T66	TIME 3215 3228	25 iulie 2019
+T67	ORG 3242 3259	MONITORUL OFICIAL
+T68	TIME 3272 3286	08 august 2019
+T69	LAW 3322 3380	Licența de concesionare pentru explorare nr. 21.865 / 2019
+T70	TIME 3376 3380	2019
+T71	LOC 3436 3451	Valea Rudarului
+T72	LOC 3461 3465	Gorj
+T73	ORG 3483 3524	Agenția Națională pentru Resurse Minerale
+T74	ORG 3555 3595	Societatea Comercială Davemicat - S.R.L.
+T75	LOC 3610 3619	Târgu Jiu
+T76	LOC 3629 3633	Gorj
+T77	LOC 3660 3662	RO
+T78	LAW 3727 3785	Licența de concesionare pentru explorare nr. 21.875 / 2019
+T79	TIME 3781 3785	2019
+T80	LOC 3847 3860	Dealul Rusnic
+T81	LOC 3870 3883	Caraș-Severin
+T82	ORG 3901 3942	Agenția Națională pentru Resurse Minerale
+T83	ORG 3973 4018	Societatea Comercială Incasso Target - S.R.L.
+T84	LOC 4033 4037	Arad
+T85	LOC 4039 4051	județul Arad
+T86	ORG 4162 4179	Monitorul Oficial
+T87	LOC 4183 4191	României
+T88	ORG 4217 4259	Agenției Naționale pentru Resurse Minerale
+T89	PER 4262 4275	Gigi Dragomir
+T90	LOC 4277 4286	București
+T91	TIME 4288 4301	11 iunie 2019

@@ -1,0 +1,37 @@
+T1	LAW 2 36	ORDIN nr. 5.087 din 30 august 2019
+T2	TIME 22 36	30 august 2019
+T3	TIME 175 184	2020-2021
+T4	ORG 205 222	MONITORUL OFICIAL
+T5	TIME 235 253	18 septembrie 2019
+T6	LAW 293 331	Legea educației naționale nr. 1 / 2011
+T7	TIME 327 331	2011
+T8	LAW 419 453	Hotărârea Guvernului nr. 26 / 2017
+T9	ORG 429 439	Guvernului
+T10	TIME 449 453	2017
+T11	ORG 490 522	Ministerului Educației Naționale
+T12	TIME 736 745	2020-2021
+T13	TIME 931 940	2020-2021
+T14	LAW 974 1062	Metodologia de organizare și desfășurare a admiterii în învățământul profesional de stat
+T15	TIME 1370 1379	2020-2021
+T16	LAW 1078 1160	Ordinul ministrului educației naționale și cercetării științifice nr. 5.068 / 2016
+T17	TIME 1156 1160	2016
+T18	ORG 1598 1607	București
+T19	TIME 1783 1792	2020-2021
+T20	TIME 2006 2015	2020-2021
+T21	LAW 2245 2301	Ordinul ministrului educației naționale nr. 3.556 / 2017
+T22	TIME 2297 2301	2017
+T23	TIME 2582 2591	2020-2021
+T24	LOC 2795 2804	București
+T25	TIME 3397 3406	2020-2021
+T26	ORG 3595 3664	Direcția generală învățământ secundar superior și educație permanentă
+T27	ORG 3666 3685	Direcția minorități
+T28	ORG 3687 3756	Centrul Național de Dezvoltare a Învățământului Profesional și Tehnic
+T29	ORG 3808 3817	București
+T30	ORG 3758 3789	inspectoratele școlare județene
+T31	ORG 3941 3958	Monitorul Oficial
+T32	LOC 3962 3970	României
+T33	PER 4026 4044	Valer-Daniel Breaz
+T34	LOC 4046 4055	București
+T35	TIME 4057 4071	30 august 2019
+T36	TIME 4177 4186	2020-2021
+T37	TIME 4350 4359	2020-2021

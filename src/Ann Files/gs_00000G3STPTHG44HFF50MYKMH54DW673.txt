@@ -1,0 +1,57 @@
+T1	LAW 2 30	ORDIN nr. 941 / 4.362 / 2019
+T2	TIME 26 30	2019
+T5	ORG 416 433	MONITORUL OFICIAL
+T6	TIME 446 460	26 iulie 2019
+T7	LAW 470 524	Referatul de aprobare nr. S.P. 7.914 din 21 iunie 2019
+T8	TIME 511 524	21 iunie 2019
+T9	ORG 528 574	Centrului de resurse umane în sănătate publică
+T10	ORG 586 608	Ministerului Sănătății
+T11	LAW 627 674	Avizul de principiu nr. 1.873 din 5 martie 2019
+T12	TIME 661 674	5 martie 2019
+T13	ORG 678 710	Colegiului Medicilor din România
+T14	LAW 729 776	Avizul de principiu nr. 915 din 24 aprilie 2019
+T15	TIME 761 776	24 aprilie 2019
+T16	ORG 780 824	Colegiului Medicilor Stomatologi din România
+T17	LAW 843 888	Avizul de principiu nr. 1.098 din 30 mai 2019
+T18	TIME 877 888	30 mai 2019
+T19	ORG 892 936	Colegiului Medicilor Stomatologi din România
+T20	LAW 979 1013	Ordonanța Guvernului nr. 18 / 2009
+T21	TIME 1009 1013	2009
+T22	ORG 989 999	Guvernului
+T23	LAW 1079 1099	Legea nr. 103 / 2012
+T24	TIME 1095 1099	2012
+T25	LAW 1178 1213	Hotărârea Guvernului nr. 144 / 2010
+T26	ORG 1188 1198	Guvernului
+T27	TIME 1209 1213	2010
+T28	ORG 1250 1272	Ministerului Sănătății
+T29	LAW 1346 1380	Hotărârea Guvernului nr. 26 / 2017
+T30	ORG 1356 1366	Guvernului
+T31	TIME 1376 1380	2017
+T32	ORG 1417 1449	Ministerului Educației Naționale
+T33	LAW 1602 1609	Ordinul
+T34	LAW 1695 1719	nr. 1.141 / 1.386 / 2007
+T35	TIME 1715 1719	2007
+T36	ORG 1929 1946	Monitorul Oficial
+T37	LOC 1950 1958	României
+T38	TIME 1993 2009	1 octombrie 2007
+T39	TIME 2300 2314	noiembrie 2019
+T40	TIME 2526 2540	noiembrie 2019
+T41	TIME 2782 2796	noiembrie 2019
+T42	ORG 3210 3283	Centrul pentru relații cu publicul al Regiei Autonome "Monitorul Oficial"
+T43	ORG 3265 3282	Monitorul Oficial
+T44	LOC 3285 3294	București
+T45	LOC 3296 3314	șos. Panduri nr. 1
+T46	ORG 3372 3394	Ministerului Sănătății
+T47	ORG 3401 3433	Ministerului Educației Naționale
+T48	ORG 3620 3637	Monitorul Oficial
+T49	LOC 3641 3649	României
+T50	PER 3684 3697	Sorina Pintea
+T51	PER 3731 3751	Ecaterina Andronescu
+T52	LAW 3826 3833	Ordinul
+T53	LAW 3918 3942	nr. 1.141 / 1.386 / 2007
+T54	TIME 3938 3942	2007
+T55	LAW 82 199	Ordinul ministrului sănătății publice și al ministrului educației, cercetării și tineretului nr. 1.141 / 1.386 / 2007
+T56	TIME 195 199	2007
+T57	LAW 288 395	Nomenclatorul specialităților medicale, medico-dentare și farmaceutice pentru rețeaua de asistență medicală
+T58	LAW 1808 1915	Nomenclatorul specialităților medicale, medico-dentare și farmaceutice pentru rețeaua de asistență medicală
+T59	LAW 4030 4127	Nomenclatorulspecialităților medicale, medico-dentare și farmaceutice pentru rețeaua de asistență

@@ -1,0 +1,36 @@
+T1	LAW 2 36	LEGE nr. 221 din 18 noiembrie 2019
+T2	TIME 19 36	18 noiembrie 2019
+T3	LAW 72 110	Legii educației naționale nr. 1 / 2011
+T4	TIME 106 110	2011
+T5	ORG 131 148	MONITORUL OFICIAL
+T6	TIME 161 178	19 noiembrie 2019
+T7	ORG 182 202	Parlamentul României
+T8	LAW 241 279	Legea educației naționale nr. 1 / 2011
+T9	TIME 275 279	2011
+T10	ORG 294 311	Monitorul Oficial
+T11	LOC 315 323	României
+T12	TIME 346 362	10 ianuarie 2011
+T13	ORG 3408 3442	Ministerul Educației și Cercetării
+T14	ORG 3446 3475	Ministerul Afacerilor Interne
+T15	LAW 3557 3595	Legea educației naționale nr. 1 / 2011
+T16	TIME 3591 3595	2011
+T17	ORG 3804 3838	Ministerul Educației și Cercetării
+T18	LAW 3957 3995	Legea educației naționale nr. 1 / 2011
+T19	TIME 3991 3995	2011
+T20	TIME 4234 4243	2020-2021
+T21	ORG 4278 4298	Parlamentul României
+T22	LAW 4365 4385	Constituția României
+T23	LOC 4377 4385	României
+T24	LOC 4290 4298	României
+T25	PER 4439 4454	FLORIN IORDACHE
+T26	ORG 4470 4479	SENATULUI
+T27	ORG 4417 4436	CAMEREI DEPUTAȚILOR
+T28	PER 4481 4504	TEODOR-VIOREL MELEȘCANU
+T29	LOC 4506 4515	București
+T30	TIME 4517 4534	18 noiembrie 2019
+T31	LOC 194 202	României
+T35	TIME 1676 1698	20 de ore pe săptămână
+T36	TIME 1735 1757	25 de ore pe săptămână
+T37	TIME 1800 1821	0 de ore pe săptămână
+T38	TIME 3353 3363	90 de zile
+T39	TIME 3749 3759	90 de zile

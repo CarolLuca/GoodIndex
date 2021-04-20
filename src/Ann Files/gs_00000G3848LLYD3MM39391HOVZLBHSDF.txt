@@ -1,0 +1,52 @@
+T1	LAW 2 39	ORDIN nr. 1.106 din 29 noiembrie 2019
+T4	LAW 176 253	Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245 / 2017
+T5	ORG 198 238	Casei Naționale de Asigurări de Sănătate
+T6	TIME 249 253	2017
+T7	ORG 274 291	MONITORUL OFICIAL
+T8	TIME 304 321	29 noiembrie 2019
+T9	LAW 332 381	Referatul de aprobare nr. DG 1.657 din 29.11.2019
+T10	TIME 371 381	29.11.2019
+T11	ORG 409 449	Casei Naționale de Asigurări de Sănătate
+T12	LAW 498 517	Legea nr. 95 / 2006
+T13	TIME 513 517	2006
+T14	LAW 614 649	Hotărârea Guvernului nr. 155 / 2017
+T15	TIME 645 649	2017
+T17	TIME 722 726	2018
+T18	LAW 759 794	Hotărârea Guvernului nr. 440 / 2019
+T19	TIME 790 794	2019
+T20	ORG 769 779	Guvernului
+T21	ORG 624 634	Guvernului
+T22	LAW 852 887	Hotărârii Guvernului nr. 155 / 2017
+T23	ORG 862 872	Guvernului
+T24	TIME 883 887	2017
+T26	TIME 960 964	2018
+T27	LAW 1162 1211	Statutul Casei Naționale de Asigurări de Sănătate
+T28	ORG 1171 1211	Casei Naționale de Asigurări de Sănătate
+T29	LAW 1226 1261	Hotărârea Guvernului nr. 972 / 2006
+T30	ORG 1236 1246	Guvernului
+T31	TIME 1257 1261	2006
+T32	ORG 1321 1361	Casei Naționale de Asigurări de Sănătate
+T36	TIME 1633 1637	2018
+T37	LAW 61 160	Normelor tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018
+T38	LAW 1539 1637	Normele tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018
+T39	LAW 1653 1730	Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245 / 2017
+T40	ORG 1675 1715	Casei Naționale de Asigurări de Sănătate
+T41	TIME 1726 1730	2017
+T42	ORG 1744 1761	Monitorul Oficial
+T43	LOC 1765 1773	României
+T44	TIME 1808 1822	31 martie 2017
+T48	TIME 143 160	anii 2017 și 2018
+T49	TIME 709 726	anii 2017 și 2018
+T50	TIME 947 964	anii 2017 și 2018
+T51	TIME 2100 2107	an 2019
+T52	TIME 2004 2013	anul 2019
+T53	TIME 2075 2082	an 2019
+T54	ORG 4551 4568	Monitorul Oficial
+T55	LOC 4572 4580	României
+T56	ORG 4606 4646	Casei Naționale de Asigurări de Sănătate
+T57	PER 4649 4660	Adela Cojan
+T58	LOC 4662 4671	București
+T59	TIME 4673 4690	29 noiembrie 2019
+T60	TIME 1524 1533	anul 2019
+T61	LAW 1056 1075	Legea nr. 95 / 2006
+T62	TIME 1071 1075	2006

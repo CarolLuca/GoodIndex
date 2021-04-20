@@ -1,0 +1,36 @@
+T1	LAW 2 39	ORDIN nr. 1.632 din 26 noiembrie 2018
+T2	TIME 22 39	26 noiembrie 2018
+T3	LOC 193 205	județul Gorj
+T4	ORG 226 243	MONITORUL OFICIAL
+T5	TIME 257 274	18 decembrie 2018
+T6	LAW 328 387	Legea cadastrului și a publicității imobiliare nr. 7 / 1996
+T7	TIME 383 387	1996
+T8	LAW 480 539	Legea cadastrului și a publicității imobiliare nr. 7 / 1996
+T9	TIME 535 539	1996
+T10	ORG 621 677	Agenției Naționale de Cadastru și Publicitate Imobiliară
+T11	LOC 882 894	județul Gorj
+T12	LOC 951 957	Arcani
+T13	LOC 1072 1084	Baia de Fier
+T14	LOC 1177 1184	Bălești
+T15	LOC 1361 1368	Bolboși
+T16	LOC 1535 1543	Brănești
+T17	LOC 1644 1658	Bumbești-Pițic
+T18	LOC 1739 1746	Căpreni
+T19	LOC 1843 1850	Glogova
+T20	LOC 1937 1946	Godinești
+T21	LOC 2058 2065	Lelești
+T22	LOC 2281 2287	Novaci
+T23	LOC 2415 2424	Polovragi
+T24	LOC 2507 2524	Roșia de Amaradia
+T25	LOC 2642 2650	Săulești
+T26	LOC 2838 2854	Târgu Cărbunești
+T27	LOC 3006 3013	Tismana
+T28	LOC 3228 3235	Țicleni
+T29	LOC 3146 3156	Turcinești
+T30	LOC 3404 3410	Urdari
+T31	ORG 3819 3836	Monitorul Oficial
+T32	LOC 3840 3848	României
+T33	ORG 3883 3939	Agenției Naționale de Cadastru și Publicitate Imobiliară
+T34	PER 3942 3964	Radu-Codruț Ștefănescu
+T35	LOC 3966 3975	București
+T36	TIME 3977 3994	26 noiembrie 2018

@@ -1,0 +1,52 @@
+T1	LAW 2 38	ORDIN nr. 981 din 20 septembrie 2019
+T2	TIME 20 38	20 septembrie 2019
+T3	ORG 245 282	Secretariatului General al Guvernului
+T4	ORG 413 450	Secretariatului General al Guvernului
+T5	TIME 484 499	1 ianuarie 2019
+T6	TIME 500 517	31 decembrie 2021
+T7	ORG 538 555	MONITORUL OFICIAL
+T8	TIME 568 584	2 octombrie 2019
+T9	LAW 638 686	Ordonanța de urgență a Guvernului nr. 114 / 2018
+T10	TIME 682 686	2018
+T11	ORG 272 282	Guvernului
+T12	ORG 440 450	Guvernului
+T13	ORG 661 671	Guvernului
+T14	LAW 928 966	Adresa nr. 16 C / 2.335 din 13.09.2019
+T15	TIME 956 966	13.09.2019
+T16	ORG 969 1009	Direcției economice și achiziții publice
+T17	LAW 1044 1078	Hotărârea Guvernului nr. 21 / 2017
+T18	ORG 1054 1064	Guvernului
+T19	TIME 1074 1078	2017
+T20	ORG 1128 1165	Secretariatului General al Guvernului
+T21	ORG 1155 1165	Guvernului
+T22	ORG 1234 1244	Guvernului
+T23	ORG 1485 1522	Secretariatului General al Guvernului
+T24	ORG 1512 1522	Guvernului
+T25	ORG 1653 1690	Secretariatului General al Guvernului
+T26	ORG 1680 1690	Guvernului
+T28	TIME 1740 1757	31 decembrie 2021
+T29	TIME 1724 1739	1 ianuarie 2019
+T30	TIME 1856 1871	1 ianuarie 2019
+T31	TIME 1872 1889	31 decembrie 2021
+T32	ORG 1963 2000	Secretariatului General al Guvernului
+T33	ORG 1990 2000	Guvernului
+T34	ORG 2131 2168	Secretariatului General al Guvernului
+T35	ORG 2158 2168	Guvernului
+T36	LAW 2253 2301	Ordonanța de urgență a Guvernului nr. 114 / 2018
+T37	ORG 2276 2286	Guvernului
+T38	TIME 2297 2301	2018
+T39	LAW 2686 2734	Ordonanța de urgență a Guvernului nr. 114 / 2018
+T40	ORG 2709 2719	Guvernului
+T41	TIME 2730 2734	2018
+T42	LAW 3074 3122	Ordonanța de urgență a Guvernului nr. 114 / 2018
+T43	ORG 3097 3107	Guvernului
+T44	TIME 3118 3122	2018
+T45	ORG 3644 3650	I.N.S.
+T46	TIME 3934 3949	1 ianuarie 2019
+T47	TIME 3950 3967	31 decembrie 2021
+T48	ORG 4412 4429	Monitorul Oficial
+T49	LOC 4433 4441	României
+T50	ORG 4476 4486	Guvernului
+T51	PER 4489 4500	Toni Greblă
+T52	LOC 4502 4511	București
+T53	TIME 4513 4531	20 septembrie 2019

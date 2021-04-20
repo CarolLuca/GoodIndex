@@ -1,0 +1,54 @@
+T1	LAW 2 37	HOTĂRÂRE nr. 193 din 3 aprilie 2019
+T2	TIME 23 37	3 aprilie 2019
+T3	ORG 182 223	Institutului Național de Sănătate Publică
+T4	ORG 257 279	Ministerului Sănătății
+T5	ORG 349 389	Ministerului Muncii și Justiției Sociale
+T6	ORG 392 424	Casa Națională de Pensii Publice
+T7	ORG 442 464	Ministerului Sănătății
+T8	ORG 485 502	MONITORUL OFICIAL
+T9	TIME 515 530	10 aprilie 2019
+T10	LAW 582 616	Ordonanța Guvernului nr. 81 / 2003
+T11	ORG 592 602	Guvernului
+T12	TIME 612 616	2003
+T13	LAW 726 746	Legea nr. 493 / 2003
+T14	TIME 742 746	2003
+T16	LOC 829 837	României
+T17	LAW 817 837	Constituția României
+T18	LAW 895 915	Legea nr. 287 / 2009
+T19	TIME 911 915	2009
+T20	LAW 924 935	Codul civil
+T21	LAW 1006 1026	Legea nr. 213 / 1998
+T22	TIME 1022 1026	1998
+T23	ORG 1110 1118	Guvernul
+T24	LOC 1119 1127	României
+T25	ORG 1315 1356	Institutului Național de Sănătate Publică
+T26	ORG 1390 1412	Ministerului Sănătății
+T27	ORG 1563 1604	Institutului Național de Sănătate Publică
+T28	ORG 1638 1660	Ministerului Sănătății
+T29	ORG 1679 1719	Ministerului Muncii și Justiției Sociale
+T30	ORG 1722 1754	Casa Națională de Pensii Publice
+T31	ORG 1901 1942	Institutului Național de Sănătate Publică
+T32	ORG 1976 1998	Ministerului Sănătății
+T33	ORG 2017 2039	Ministerului Sănătății
+T34	TIME 2232 2242	60 de zile
+T35	ORG 2407 2439	Casa Națională de Pensii Publice
+T36	ORG 2570 2590	Ministerul Sănătății
+T37	ORG 2759 2779	Ministerul Sănătății
+T38	ORG 2783 2821	Ministerul Muncii și Justiției Sociale
+T39	ORG 2932 2961	Ministerul Finanțelor Publice
+T40	LAW 3024 3061	Hotărârea Guvernului nr. 1.705 / 2006
+T41	ORG 3034 3044	Guvernului
+T42	TIME 3057 3061	2006
+T43	PER 3289 3313	VASILICA-VIORICA DĂNCILĂ
+T44	PER 3358 3381	iberius-Marius Brădățan
+T45	PER 3445 3468	Adrian Marius Rîndunică
+T46	PER 3520 3545	Eugen Orlando Teodorovici
+T47	LOC 3547 3556	București
+T48	TIME 3558 3572	3 aprilie 2019
+T49	ORG 3694 3735	Institutului Național de Sănătate Publică
+T50	ORG 3769 3791	Ministerului Sănătății
+T51	ORG 3986 4027	Institutului Național de Sănătate Publică
+T52	ORG 4061 4083	Ministerului Sănătății
+T53	ORG 4102 4142	Ministerului Muncii și Justiției Sociale
+T54	ORG 4144 4176	Casa Națională de Pensii Publice
+T55	ORG 4182 4204	Ministerului Sănătății

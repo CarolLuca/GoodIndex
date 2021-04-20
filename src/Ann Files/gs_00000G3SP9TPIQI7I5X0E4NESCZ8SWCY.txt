@@ -1,0 +1,50 @@
+T1	LAW 2 37	ORDIN nr. 195 din 14 decembrie 2018
+T2	TIME 20 37	14 decembrie 2018
+T3	ORG 186 227	Societatea E-Distribuție Dobrogea - S.A.
+T4	ORG 247 264	MONITORUL OFICIAL
+T5	TIME 278 295	20 decembrie 2018
+T6	LAW 385 446	Legea energiei electrice și a gazelor naturale nr. 123 / 2012
+T7	TIME 442 446	2012
+T8	LAW 504 594	Metodologiei de stabilire a tarifelor pentru serviciul de distribuție a energiei electrice
+T9	LAW 610 705	Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 169 / 2018
+T10	TIME 701 705	2018
+T11	ORG 632 690	Autorității Naționale de Reglementare în Domeniul Energiei
+T12	LAW 881 975	Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 33 / 2014
+T13	TIME 971 975	2014
+T14	ORG 903 961	Autorității Naționale de Reglementare în Domeniul Energiei
+T15	LAW 1131 1178	Ordonanța de urgență a Guvernului nr. 33 / 2007
+T16	ORG 1154 1164	Guvernului
+T17	TIME 1174 1178	2007
+T18	ORG 1215 1273	Autorității Naționale de Reglementare în Domeniul Energiei
+T19	LAW 1317 1337	Legea nr. 160 / 2012
+T20	TIME 1333 1337	2012
+T21	ORG 1397 1455	Autorității Naționale de Reglementare în Domeniul Energiei
+T22	ORG 1592 1631	Societatea EDistribuție Dobrogea - S.A.
+T23	ORG 2250 2289	Societatea EDistribuție Dobrogea - S.A.
+T24	LAW 2518 2612	Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 33 / 2014
+T25	ORG 2540 2598	Autorității Naționale de Reglementare în Domeniul Energiei
+T26	TIME 2608 2612	2014
+T27	ORG 2965 3023	Autoritatea Națională de Reglementare în Domeniul Energiei
+T28	TIME 3036 3040	2018
+T29	ORG 3048 3088	Societatea E-Distribuție Dobrogea - S.A.
+T30	ORG 3165 3205	Societatea E-Distribuție Dobrogea - S.A.
+T31	ORG 3299 3357	Autorității Naționale de Reglementare în Domeniul Energiei
+T32	LAW 3463 3558	Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 111 / 2017
+T33	ORG 3485 3543	Autorității Naționale de Reglementare în Domeniul Energiei
+T34	TIME 3554 3558	2017
+T35	ORG 3706 3746	Societatea E-Distribuție Dobrogea - S.A.
+T36	ORG 3760 3777	Monitorul Oficial
+T37	LOC 3781 3789	României
+T38	TIME 3813 3830	15 decembrie 2017
+T39	ORG 3878 3895	Monitorul Oficial
+T40	LOC 3899 3907	României
+T41	TIME 3950 3965	1 ianuarie 2019
+T42	ORG 3982 4040	Autorității Naționale de Reglementare în Domeniul Energiei
+T43	PER 4043 4059	Dumitru Chiriță
+T44	ORG 4193 4233	Societatea E-Distribuție Dobrogea - S.A.
+T45	TIME 4264 4276	1 iulie 2019
+T46	TIME 4334 4344	01-07-2019
+T47	LAW 4394 4426	ORDINUL nr. 76 din 24 iunie 2019
+T48	TIME 4413 4426	24 iunie 2019
+T49	ORG 4440 4457	MONITORUL OFICIAL
+T50	TIME 4470 4483	25 iunie 2019

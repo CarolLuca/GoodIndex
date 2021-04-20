@@ -1,0 +1,63 @@
+T1	LAW 2 35	ORDIN nr. 65 din 21 ianuarie 2019
+T2	TIME 19 35	21 ianuarie 2019
+T3	TIME 98 107	anul 2019
+T4	ORG 128 145	MONITORUL OFICIAL
+T5	TIME 157 173	23 ianuarie 2019
+T6	LAW 193 239	Referatul de aprobare nr. 171.367 / 10.01.2019
+T7	TIME 229 239	10.01.2019
+T8	ORG 243 295	Direcției generale buget-finanțe și fonduri europene
+T9	LAW 313 360	Ordonanța de urgență a Guvernului nr. 79 / 2009
+T10	ORG 336 346	Guvernului
+T11	TIME 356 360	2009
+T12	LAW 628 648	Legea nr. 373 / 2009
+T13	TIME 644 648	2009
+T14	LAW 735 783	Ordonanței de urgență a Guvernului nr. 79 / 2009
+T15	ORG 759 769	Guvernului
+T16	TIME 779 783	2009
+T17	LAW 1051 1088	Hotărârea Guvernului nr. 1.262 / 2009
+T18	ORG 1061 1071	Guvernului
+T19	TIME 1084 1088	2009
+T20	LAW 1195 1215	Legii nr. 218 / 2005
+T21	TIME 1211 1215	2005
+T22	ORG 1257 1263	SAPARD
+T23	LAW 1470 1505	Hotărârea Guvernului nr. 876 / 2005
+T24	ORG 1480 1490	Guvernului
+T25	TIME 1501 1505	2005
+T26	LAW 1590 1624	Hotărârea Guvernului nr. 30 / 2017
+T27	ORG 1600 1610	Guvernului
+T28	TIME 1620 1624	2017
+T29	ORG 1661 1708	Ministerului Agriculturii și Dezvoltării Rurale
+T30	LAW 1760 1797	Hotărârea Guvernului nr. 1.186 / 2014
+T31	ORG 1770 1780	Guvernului
+T32	TIME 1793 1797	2014
+T33	ORG 1834 1932	Autorității pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor
+T34	LAW 2266 2286	Legii nr. 218 / 2005
+T35	TIME 2282 2286	2005
+T36	LOC 2336 2344	României
+T37	ORG 2427 2472	Ministerul Agriculturii și Dezvoltării Rurale
+T38	TIME 2706 2723	31 decembrie 2018
+T39	LAW 2935 2955	Legea nr. 218 / 2005
+T40	TIME 2951 2955	2005
+T41	ORG 3153 3159	SAPARD
+T42	LAW 3435 3483	Ordonanței de urgență a Guvernului nr. 79 / 2009
+T43	ORG 3459 3469	Guvernului
+T44	TIME 3479 3483	2009
+T45	LAW 3751 3771	Legea nr. 373 / 2009
+T46	TIME 3767 3771	2009
+T47	ORG 3958 4005	Agenției pentru Finanțarea Investițiilor Rurale
+T49	ORG 4039 4049	Guvernului
+T50	LAW 4015 4063	Ordonanței de urgență a Guvernului nr. 79 / 2009
+T51	TIME 4059 4063	2009
+T52	LAW 4079 4099	Legea nr. 373 / 2009
+T53	TIME 4095 4099	2009
+T54	TIME 4148 4157	anul 2019
+T55	TIME 4243 4252	anul 2019
+T56	ORG 4337 4383	Agenția pentru Finanțarea Investițiilor Rurale
+T57	TIME 4515 4524	2007-2013
+T58	TIME 4540 4549	anul 2019
+T59	TIME 4697 4714	31 decembrie 2015
+T60	ORG 4801 4818	Monitorul Oficial
+T61	LOC 4822 4830	României
+T62	PER 4893 4916	Dumitru Daniel Botănoiu
+T63	LOC 4937 4946	București
+T64	TIME 4948 4963	21 ianuarie 201

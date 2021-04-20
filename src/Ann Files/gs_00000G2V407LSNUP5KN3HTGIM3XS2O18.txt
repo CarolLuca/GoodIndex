@@ -1,0 +1,45 @@
+T1	LAW 2 40	ORDIN nr. 1.608 din 27 decembrie 2018
+T2	TIME 22 39	27 decembrie 2018
+T3	LAW 61 160	Normelor tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018
+T4	TIME 143 160	anii 2017 și 2018
+T5	LAW 176 253	Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245 / 2017
+T6	TIME 249 253	2017
+T7	ORG 198 238	Casei Naționale de Asigurări de Sănătate
+T8	ORG 274 291	MONITORUL OFICIAL
+T9	TIME 305 322	28 decembrie 2018
+T10	LAW 333 382	Referatul de aprobare nr. D.G. 5.586 / 27.12.2018
+T11	ORG 410 450	Casei Naționale de Asigurări de Sănătate
+T12	LAW 499 518	Legea nr. 95 / 2006
+T13	TIME 514 518	2006
+T14	LAW 625 660	Hotărârea Guvernului nr. 155 / 2017
+T15	ORG 635 645	Guvernului
+T16	TIME 656 660	2017
+T17	TIME 720 737	anii 2017 și 2018
+T18	LAW 802 821	Legea nr. 95 / 2006
+T19	TIME 817 821	2006
+T20	LAW 908 957	Statutul Casei Naționale de Asigurări de Sănătate
+T21	ORG 917 957	Casei Naționale de Asigurări de Sănătate
+T22	LAW 972 1007	Hotărârea Guvernului nr. 972 / 2006
+T23	ORG 982 992	Guvernului
+T24	TIME 1003 1007	2006
+T25	ORG 1067 1107	Casei Naționale de Asigurări de Sănătate
+T26	LAW 1170 1268	Normele tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018
+T27	TIME 1251 1268	anii 2017 și 2018
+T28	LAW 1284 1361	Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245 / 2017
+T29	ORG 1306 1346	Casei Naționale de Asigurări de Sănătate
+T30	TIME 1357 1361	2017
+T31	ORG 1375 1392	Monitorul Oficial
+T32	LOC 1396 1404	României
+T33	TIME 1439 1453	31 martie 2017
+T34	TIME 1608 1617	anul 2018
+T35	TIME 1853 1866	ianuarie 2019
+T36	TIME 1896 1909	ianuarie 2019
+T37	TIME 1767 1780	ianuarie 2019
+T38	ORG 4280 4319	Casa Națională de Asigurări de Sănătate
+T39	ORG 4321 4352	casele de asigurări de sănătate
+T40	ORG 4548 4565	Monitorul Oficial
+T41	LOC 4569 4577	României
+T42	ORG 4606 4646	Casei Naționale de Asigurări de Sănătate
+T43	PER 4649 4668	Liliana-Maria Mihai
+T44	LOC 4670 4679	București
+T45	TIME 4681 4698	27 decembrie 2018

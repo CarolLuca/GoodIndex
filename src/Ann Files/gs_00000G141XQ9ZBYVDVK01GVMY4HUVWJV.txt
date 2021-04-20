@@ -1,0 +1,61 @@
+T1	LAW 2 33	ORDIN nr. 41 din 15 martie 2019
+T2	TIME 19 33	15 martie 2019
+T3	ORG 175 192	MONITORUL OFICIAL
+T4	TIME 205 219	18 martie 2019
+T5	LAW 262 290	Regulamentul (UE) 2017 / 460
+T6	ORG 276 278	UE
+T7	TIME 280 284	2017
+T8	TIME 307 321	16 martie 2017
+T9	LAW 459 520	Legea energiei electrice și a gazelor naturale nr. 123 / 2012
+T10	TIME 516 520	2012
+T11	LAW 618 665	Ordonanța de urgență a Guvernului nr. 33 / 2007
+T12	ORG 641 651	Guvernului
+T13	TIME 661 665	2007
+T14	ORG 702 760	Autorității Naționale de Reglementare în Domeniul Energiei
+T15	LAW 804 824	Legea nr. 160 / 2012
+T16	TIME 820 824	2012
+T17	LAW 912 959	Ordonanța de urgență a Guvernului nr. 33 / 2007
+T18	ORG 935 945	Guvernului
+T19	TIME 955 959	2007
+T20	ORG 996 1054	Autorității Naționale de Reglementare în Domeniul Energiei
+T21	LAW 1098 1118	Legea nr. 160 / 2012
+T22	TIME 1114 1118	2012
+T23	ORG 1178 1236	Autorității Naționale de Reglementare în Domeniul Energiei
+T24	LAW 1980 2075	Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 168 / 2018
+T25	TIME 2071 2075	2018
+T26	ORG 2002 2060	Autorității Naționale de Reglementare în Domeniul Energiei
+T27	TIME 2286 2301	1 ianuarie 2019
+T28	LAW 2459 2489	Ordinul nr. 61 din 23 mai 2019
+T29	TIME 2478 2489	23 mai 2019
+T30	ORG 2503 2520	MONITORUL OFICIAL
+T31	TIME 2533 2544	24 mai 2019
+T32	LAW 2602 2663	Legea energiei electrice și a gazelor naturale nr. 123 / 2012
+T33	TIME 2659 2663	2012
+T34	LAW 2761 2855	Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 41 / 2019
+T35	ORG 2783 2841	Autorității Naționale de Reglementare în Domeniul Energiei
+T36	TIME 2851 2855	2019
+T37	ORG 2989 3006	Monitorul Oficial
+T38	LOC 3010 3018	României
+T39	TIME 3042 3056	18 martie 2019
+T40	TIME 3638 3648	90 de zile
+T41	LAW 3889 3917	Regulamentul (UE) 2017 / 459
+T42	ORG 3903 3905	UE
+T43	TIME 3907 3911	2017
+T44	TIME 3934 3948	16 martie 2017
+T45	LAW 4083 4113	Regulamentului (UE) 984 / 2013
+T46	ORG 4099 4101	UE
+T47	TIME 4109 4113	2013
+T48	LAW 4189 4283	Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 32 / 2014
+T49	ORG 4209 4269	i Autorității Naționale de Reglementare în Domeniul Energiei
+T50	TIME 4279 4283	2014
+T51	ORG 4464 4481	Monitorul Oficial
+T52	LOC 4485 4493	României
+T53	TIME 4517 4528	26 mai 2014
+T54	ORG 4590 4648	Autoritatea Națională de Reglementare în Domeniul Energiei
+T55	ORG 4811 4828	Monitorul Oficial
+T56	LOC 4832 4840	României
+T57	TIME 4892 4906	18 martie 2019
+T58	PER 4983 4999	Dumitru Chiriță
+T59	ORG 4922 4980	Autorității Naționale de Reglementare în Domeniul Energiei
+T60	LOC 5000 5009	București
+T61	TIME 5011 5025	15 martie 2019

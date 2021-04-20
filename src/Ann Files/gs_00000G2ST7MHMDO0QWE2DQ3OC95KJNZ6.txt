@@ -1,0 +1,62 @@
+T1	LAW 2 40	HOTĂRÂRE nr. 960 din 7 decembrie 2018
+T2	TIME 23 39	7 decembrie 2018
+T3	LOC 82 97	municipiul Iași
+T4	LOC 99 111	județul Iași
+T5	ORG 219 250	Ministerului Apărării Naționale
+T6	LAW 398 435	Hotărârea Guvernului nr. 1.705 / 2006
+T7	ORG 408 418	Guvernului
+T8	TIME 431 435	2006
+T9	ORG 543 560	MONITORUL OFICIAL
+T10	TIME 574 591	18 decembrie 2018
+T11	LAW 619 639	Constituția României
+T12	LOC 631 639	României
+T13	LAW 669 689	Legea nr. 213 / 1998
+T14	TIME 685 689	1998
+T15	LAW 795 815	Legea nr. 287 / 2009
+T16	TIME 811 815	2009
+T17	LAW 824 835	Codul civil
+T18	LAW 929 963	Ordonanța Guvernului nr. 81 / 2003
+T19	ORG 939 949	Guvernului
+T20	TIME 959 963	2003
+T21	LAW 1073 1093	Legea nr. 493 / 2003
+T22	TIME 1089 1093	2003
+T23	ORG 1318 1349	Ministerului Apărării Naționale
+T24	LOC 1373 1388	municipiul Iași
+T25	LOC 1390 1402	județul Iași
+T26	LAW 1505 1567	Hotărârii Consiliului Local al Municipiului Iași nr. 96 / 2015
+T27	LOC 1536 1553	Municipiului Iași
+T28	TIME 1563 1567	2015
+T29	LAW 1583 1607	Hotărârea nr. 389 / 2016
+T30	TIME 1603 1607	2016
+T32	ORG 2238 2267	Ministerul Apărării Naționale
+T33	ORG 1887 1918	Ministerului Apărării Naționale
+T34	ORG 2362 2391	Ministerul Finanțelor Publice
+T35	LAW 2449 2486	Hotărârea Guvernului nr. 1.705 / 2006
+T36	ORG 2459 2469	Guvernului
+T37	TIME 2482 2486	2006
+T38	PER 2714 2738	VASILICA-VIORICA DĂNCILĂ
+T39	PER 2791 2804	Nicolae Nasta
+T40	PER 2856 2881	Eugen Orlando Teodorovici
+T41	LOC 2883 2892	București
+T42	TIME 2894 2910	7 decembrie 2018
+T43	LOC 2986 3001	municipiul Iași
+T44	LOC 3003 3015	județul Iași
+T45	ORG 3130 3161	Ministerului Apărării Naționale
+T46	ORG 3187 3216	Ministerul Finanțelor Publice
+T47	ORG 3435 3466	Ministerului Apărării Naționale
+T48	LAW 3588 3622	Ordonanța Guvernului nr. 81 / 2003
+T49	ORG 3598 3608	Guvernului
+T50	TIME 3618 3622	2003
+T51	LAW 3732 3752	Legea nr. 493 / 2003
+T52	TIME 3748 3752	2003
+T53	LAW 3898 3955	Ordinului ministrului finanțelor publice nr. 1.718 / 2011
+T54	TIME 3951 3955	2011
+T55	ORG 4299 4309	Guvernului
+T56	ORG 4468 4499	Ministerului Apărării Naționale
+T57	LAW 4575 4609	Ordonanța Guvernului nr. 81 / 2003
+T58	ORG 4585 4595	Guvernului
+T59	TIME 4605 4609	2003
+T60	LAW 4719 4739	Legea nr. 493 / 2003
+T61	TIME 4735 4739	2003
+T62	ORG 1140 1148	Guvernul
+T63	LOC 1149 1157	României

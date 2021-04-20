@@ -1,0 +1,56 @@
+T1	LAW 2 38	HOTĂRÂRE nr. 26 din 25 ianuarie 2019
+T2	TIME 22 38	25 ianuarie 2019
+T3	ORG 197 228	Ministerului Apărării Naționale
+T4	ORG 246 277	Ministerului Afacerilor Interne
+T5	ORG 285 315	Direcția Generală Anticorupție
+T6	LAW 361 398	Hotărârea Guvernului nr. 1.705 / 2006
+T7	ORG 371 381	Guvernului
+T8	TIME 394 398	2006
+T9	ORG 506 523	MONITORUL OFICIAL
+T10	TIME 535 551	30 ianuarie 2019
+T11	LAW 603 637	Ordonanța Guvernului nr. 81 / 2003
+T12	ORG 613 623	Guvernului
+T13	TIME 633 637	2003
+T14	LAW 747 767	Legea nr. 493 / 2003
+T15	TIME 763 767	2003
+T16	LAW 838 858	Constituția României
+T17	LOC 850 858	României
+T18	LAW 888 908	Legea nr. 213 / 1998
+T19	TIME 904 908	1998
+T20	LAW 1067 1087	Legea nr. 287 / 2009
+T21	TIME 1083 1087	2009
+T22	LAW 1096 1107	Codul civil
+T23	ORG 1151 1159	Guvernul
+T24	LOC 1160 1168	României
+T25	ORG 1329 1360	Ministerului Apărării Naționale
+T26	ORG 1779 1812	Ministerului Apărării Naționale î
+T27	ORG 1828 1859	Ministerului Afacerilor Interne
+T28	ORG 1867 1897	Direcția Generală Anticorupție
+T29	ORG 2077 2108	Ministerului Apărării Naționale
+T30	TIME 2314 2324	60 de zile
+T31	ORG 2394 2423	Ministerul Apărării Naționale
+T32	ORG 2427 2456	Ministerul Afacerilor Interne
+T33	ORG 2569 2598	Ministerul Finanțelor Publice
+T34	LAW 2664 2701	Hotărârea Guvernului nr. 1.705 / 2006
+T35	ORG 2674 2684	Guvernului
+T36	TIME 2697 2701	2006
+T37	PER 2929 2954	VASILICA-VIORICA DĂNCILĂ
+T38	PER 3003 3023	Gabriel-Beniamin Leș
+T39	PER 3056 3074	Carmen Daniela Dan
+T40	PER 3107 3132	Eugen Orlando Teodorovici
+T41	LOC 3134 3143	București
+T42	TIME 3145 3161	25 ianuarie 2019
+T43	ORG 3287 3318	Ministerului Apărării Naționale
+T44	LAW 3394 3428	Ordonanța Guvernului nr. 81 / 2003
+T45	ORG 3404 3414	Guvernului
+T46	TIME 3424 3428	2003
+T47	LAW 3537 3557	Legea nr. 493 / 2003
+T48	TIME 3553 3557	2003
+T49	LAW 3629 3686	Ordinului ministrului finanțelor publice nr. 1.718 / 2011
+T50	TIME 3682 3686	2011
+T51	ORG 4230 4261	Ministerului Apărării Naționale
+T52	ORG 4279 4310	Ministerului Afacerilor Interne
+T53	ORG 4318 4348	Direcția Generală Anticorupție
+T54	LAW 4376 4433	Ordinului ministrului finanțelor publice nr. 1.718 / 2011
+T55	TIME 4429 4433	2011
+T56	ORG 4777 4787	Guvernului

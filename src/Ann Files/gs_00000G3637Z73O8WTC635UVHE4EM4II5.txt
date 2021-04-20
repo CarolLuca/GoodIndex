@@ -1,0 +1,35 @@
+T1	LAW 2 43	ORDIN nr. 4.887 / C din 22 noiembrie 2019
+T2	TIME 26 43	22 noiembrie 2019
+T3	ORG 144 166	Ministerului Justiției
+T4	LAW 181 227	Ordinul ministrului justiției nr. 927 / C/2006
+T5	TIME 223 227	2006
+T6	ORG 248 265	MONITORUL OFICIAL
+T7	TIME 278 294	2 decembrie 2019
+T8	LAW 340 368	Decizia nr. 5 din 22.10.2018
+T9	TIME 358 368	22.10.2018
+T10	ORG 371 388	Curții de Conturi
+T11	LAW 400 443	Nota internă nr. 16 / 48.065 din 15.11.2018
+T12	TIME 433 443	15.11.2018
+T13	LAW 1077 1107	Legea locuinței nr. 114 / 1996
+T14	TIME 1103 1107	1996
+T15	LAW 1211 1246	Hotărârea Guvernului nr. 652 / 2009
+T16	ORG 1221 1231	Guvernului
+T17	TIME 1242 1246	2009
+T18	ORG 1283 1305	Ministerului Justiției
+T19	ORG 1490 1512	Ministerului Justiției
+T20	LAW 1527 1573	Ordinul ministrului justiției nr. 927 / C/2006
+T21	TIME 1569 1573	2006
+T22	ORG 1587 1604	Monitorul Oficial
+T23	LOC 1608 1616	României
+T24	TIME 1640 1655	17 aprilie 2006
+T25	LAW 3351 3381	Legea locuinței nr. 114 / 1996
+T26	TIME 3377 3381	1996
+T27	TIME 3727 3733	5 zile
+T28	TIME 3847 3857	30 de zile
+T29	ORG 3947 3976	Direcției financiar-contabile
+T30	ORG 3981 4001	Ministerul Justiției
+T31	LAW 4184 4214	Legea locuinței nr. 114 / 1996
+T32	TIME 4210 4214	1996
+T33	PER 4301 4323	Marian Cătălin Predoiu
+T34	LOC 4325 4334	București
+T35	TIME 4336 4353	22 noiembrie 2019

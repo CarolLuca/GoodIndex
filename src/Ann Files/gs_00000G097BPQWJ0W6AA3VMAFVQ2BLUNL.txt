@@ -1,0 +1,64 @@
+T1	LAW 2 37	HOTĂRÂRE nr. 431 din 23 martie 2019
+T2	TIME 23 37	23 martie 2019
+T3	LAW 119 197	Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64 / 2011
+T4	TIME 193 197	2011
+T5	LOC 176 183	România
+T6	ORG 129 183	Consiliului Uniunii Naționale a Barourilor din România
+T7	ORG 218 235	MONITORUL OFICIAL
+T8	TIME 248 263	12 aprilie 2019
+T9	LAW 325 344	Legea nr. 51 / 1995
+T10	TIME 340 344	1995
+T11	LAW 516 577	Hotărârea Congresului Avocaților nr. 5 din 20-21 aprilie 2018
+T12	TIME 559 577	20-21 aprilie 2018
+T13	ORG 602 654	Consiliul Uniunii Naționale a Barourilor din România
+T14	LOC 647 654	România
+T15	ORG 656 664	U.N.B.R.
+T18	ORG 794 814	Consiliului U.N.B.R.
+T19	ORG 911 931	Consiliului U.N.B.R.
+T20	ORG 1016 1036	Consiliului U.N.B.R.
+T21	LAW 1237 1316	Hotărârii Consiliului Uniunii Naționale a Barourilor din România nr. 428 / 2018
+T22	ORG 1247 1301	Consiliului Uniunii Naționale a Barourilor din România
+T23	LOC 1294 1301	România
+T24	TIME 1312 1316	2018
+T25	LAW 1397 1475	Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64 / 2011
+T26	ORG 1407 1461	Consiliului Uniunii Naționale a Barourilor din România
+T27	LOC 1454 1461	România
+T28	TIME 1471 1475	2011
+T29	ORG 1514 1522	U.N.B.R.
+T30	LAW 1539 1610	Hotărârea Înaltei Curți de Casație și Justiție nr. 2.188 din 24.05.2018
+T31	ORG 1549 1585	Înaltei Curți de Casație și Justiție
+T32	TIME 1600 1610	24.05.2018
+T33	TIME 1635 1639	2016
+T34	LAW 1686 1750	Sentinței nr. 234 / F-Cont din 29.11.2016 a Curții de Apel Argeș
+T35	TIME 1717 1727	29.11.2016
+T36	LOC 1745 1750	Argeș
+T37	ORG 1730 1750	Curții de Apel Argeș
+T38	ORG 1776 1784	U.N.B.R.
+T39	ORG 1826 1846	Consiliului U.N.B.R.
+T40	ORG 1975 1995	Consiliului U.N.B.R.
+T41	LOC 2034 2038	Cluj
+T42	LAW 2111 2189	Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64 / 2011
+T43	ORG 2121 2175	Consiliului Uniunii Naționale a Barourilor din România
+T44	LOC 2168 2175	România
+T45	TIME 2185 2189	2011
+T46	ORG 2480 2532	Consiliul Uniunii Naționale a Barourilor din România
+T47	LOC 2525 2532	România
+T48	TIME 2549 2563	23 martie 2019
+T49	LAW 2650 2728	Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64 / 2011
+T50	ORG 2660 2714	Consiliului Uniunii Naționale a Barourilor din România
+T51	LOC 2707 2714	România
+T52	TIME 2724 2728	2011
+T53	ORG 2742 2759	Monitorul Oficial
+T54	TIME 2763 2771	României
+T55	TIME 2795 2812	19 decembrie 2011
+T56	ORG 4014 4022	U.N.B.R.
+T57	LAW 4499 4577	Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64 / 2011
+T58	TIME 4573 4577	2011
+T59	LOC 4556 4563	România
+T60	ORG 4927 4944	Monitorul Oficial
+T61	LOC 4948 4956	României
+T62	ORG 4982 5036	Consiliului Uniunii Naționale a Barourilor din România
+T63	LOC 5029 5036	România
+T64	PER 5039 5054	Gheorghe Florea
+T65	LOC 5056 5065	București
+T66	TIME 5067 5081	23 martie 2019

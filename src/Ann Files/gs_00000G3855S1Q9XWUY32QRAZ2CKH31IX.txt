@@ -1,0 +1,36 @@
+T1	LAW 2 37	ORDIN nr. 512 din 14 februarie 2019
+T2	TIME 20 37	14 februarie 2019
+T3	LAW 83 154	Ordinul ministrului transporturilor și infrastructurii nr. 1.305 / 2012
+T4	TIME 150 154	2012
+T5	ORG 196 250	Regia Autonomă "Autoritatea Aeronautică Civilă Română"
+T6	ORG 333 378	Ministerul Transporturilor și Infrastructurii
+T7	ORG 399 416	MONITORUL OFICIAL
+T8	TIME 429 446	22 februarie 2019
+T9	LAW 465 527	Referatul Direcției transport aerian nr. 49.137 din 15.01.2019
+T10	TIME 517 527	15.01.2019
+T11	ORG 475 501	Direcției transport aerian
+T12	LAW 551 651	Hotărârea Consiliului de administrație al Autorității Aeronautice Civile Române nr. 19 din 5.12.2018
+T13	ORG 561 630	Consiliului de administrație al Autorității Aeronautice Civile Române
+T14	TIME 642 651	5.12.2018
+T15	LAW 767 801	Ordonanța Guvernului nr. 29 / 1997
+T16	TIME 797 801	1997
+T17	ORG 777 787	Guvernului
+T18	LAW 810 828	Codul aerian civil
+T19	LAW 943 977	Hotărârea Guvernului nr. 21 / 2015
+T20	ORG 953 963	Guvernului
+T21	TIME 973 977	2015
+T22	ORG 1014 1042	Ministerului Transporturilor
+T23	LAW 1175 1246	ordinul ministrului transporturilor și infrastructurii nr. 1.305 / 2012
+T24	TIME 1242 1246	2012
+T25	ORG 1288 1342	Regia Autonomă "Autoritatea Aeronautică Civilă Română"
+T26	ORG 1425 1470	Ministerul Transporturilor și Infrastructurii
+T27	ORG 1484 1501	Monitorul Oficial
+T28	LOC 1505 1513	României
+T29	TIME 1537 1551	27 august 2012
+T30	ORG 3309 3313	AACR
+T31	ORG 3860 3864	AACR
+T32	ORG 4053 4070	Monitorul Oficial
+T33	LOC 4074 4082	României
+T34	PER 4134 4146	Rovana Plumb
+T35	LOC 4148 4157	București
+T36	TIME 4159 4176	14 februarie 2019

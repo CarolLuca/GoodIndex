@@ -1,0 +1,55 @@
+T1	LAW 2 38	ORDIN nr. 1.559 din 4 decembrie 2018
+T2	TIME 22 38	4 decembrie 2018
+T3	ORG 920 937	MONITORUL OFICIAL
+T4	ORG 97 137	Casei Naționale de Asigurări de Sănătate
+T8	TIME 148 152	2017
+T12	LAW 722 757	Hotărârea Guvernului nr. 720 / 2008
+T13	TIME 753 757	2008
+T14	TIME 951 968	18 decembrie 2018
+T15	LAW 976 1024	Referatul de aprobare nr. DG 5.229 din 4.12.2018
+T16	TIME 1015 1024	4.12.2018
+T17	ORG 1052 1092	Casei Naționale de Asigurări de Sănătate
+T18	LAW 1140 1159	Legea nr. 95 / 2006
+T19	TIME 1155 1159	2006
+T20	LAW 1336 1385	Statutul Casei Naționale de Asigurări de Sănătate
+T21	ORG 1345 1385	Casei Naționale de Asigurări de Sănătate
+T22	LAW 1400 1435	Hotărârea Guvernului nr. 972 / 2006
+T23	TIME 1431 1435	2006
+T24	LAW 1493 1528	Hotărârea Guvernului nr. 720 / 2008
+T25	TIME 1524 1528	2008
+T28	TIME 2081 2085	2008
+T29	ORG 2022 2062	Casei Naționale de Asigurări de Sănătate
+T30	LAW 2595 2630	Hotărârea Guvernului nr. 720 / 2008
+T31	TIME 2626 2630	2008
+T32	LAW 2711 2730	Legea nr. 95 / 2006
+T33	TIME 2726 2730	2006
+T34	LAW 2861 2910	Statutul Casei Naționale de Asigurări de Sănătate
+T35	ORG 2870 2910	Casei Naționale de Asigurări de Sănătate
+T36	LAW 2925 2960	Hotărârea Guvernului nr. 972 / 2006
+T37	TIME 2956 2960	2006
+T38	ORG 3027 3067	Casei Naționale de Asigurări de Sănătate
+T39	ORG 3147 3187	Casei Naționale de Asigurări de Sănătate
+T42	TIME 3198 3202	2017
+T43	LAW 3772 3807	Hotărârea Guvernului nr. 720 / 2008
+T44	TIME 3803 3807	2008
+T45	ORG 3963 3980	Monitorul Oficial
+T46	LOC 3984 3992	României
+T47	TIME 4027 4044	28 februarie 2017
+T48	ORG 4361 4378	Monitorul Oficial
+T49	LOC 4382 4390	României
+T50	ORG 4503 4520	Monitorul Oficial
+T51	LOC 4523 4532	București
+T52	LOC 4534 4552	șos. Panduri nr. 1
+T53	ORG 4602 4619	Monitorul Oficial
+T54	LOC 4623 4631	României
+T55	ORG 4662 4702	Casei Naționale de Asigurări de Sănătate
+T56	ORG 4743 4783	Casei Naționale de Asigurări de Sănătate
+T57	PER 4786 4811	Răzvan Teohari Vulcănescu
+T58	LOC 4813 4822	București
+T59	TIME 4824 4840	4 decembrie 2018
+T61	ORG 4937 4976	Casei Naționalede Asigurări de Sănătate
+T63	TIME 4987 4991	2017
+T64	LAW 75 152	Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 141 / 2017
+T65	LAW 1964 2085	Ordinul ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.301 / 500 / 2008
+T66	LAW 3125 3202	Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 141 / 2017
+T67	LAW 4915 4991	Ordinul președintelui Casei Naționalede Asigurări de Sănătate nr. 141 / 2017

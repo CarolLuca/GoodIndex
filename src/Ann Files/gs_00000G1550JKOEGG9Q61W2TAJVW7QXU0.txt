@@ -1,0 +1,37 @@
+T1	LAW 2 35	ORDIN nr. 49 din 14 ianuarie 2019
+T2	TIME 19 35	14 ianuarie 2019
+T3	LAW 81 149	Ordinul ministrului agriculturii și dezvoltării rurale nr. 52 / 2017
+T4	TIME 145 149	2017
+T5	ORG 519 536	MONITORUL OFICIAL
+T6	TIME 548 564	5 februarie 2019
+T7	LAW 575 636	Referatul de aprobare nr. 2.046 din data de 26 noiembrie 2018
+T8	TIME 619 636	26 noiembrie 2018
+T9	ORG 650 671	Agenția Zonei Montane
+T10	LAW 713 747	Hotărârea Guvernului nr. 30 / 2017
+T11	ORG 723 733	Guvernului
+T12	TIME 743 747	2017
+T13	ORG 784 831	Ministerului Agriculturii și Dezvoltării Rurale
+T14	LAW 883 920	Hotărârea Guvernului nr. 1.186 / 2014
+T15	ORG 893 903	Guvernului
+T16	TIME 916 920	2014
+T17	ORG 957 1055	Autorității pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor
+T18	LAW 1195 1263	Ordinul ministrului agriculturii și dezvoltării rurale nr. 52 / 2017
+T19	TIME 1259 1263	2017
+T20	ORG 1626 1643	Monitorul Oficial
+T21	LOC 1647 1655	României
+T22	TIME 1679 1693	14 martie 2017
+T23	ORG 2131 2153	Agenției Zonei Montane
+T24	ORG 2202 2223	Agenția Zonei Montane
+T25	LAW 2603 2637	Regulamentul (UE) nr. 1.151 / 2012
+T26	ORG 2617 2619	UE
+T27	TIME 2633 2637	2012
+T28	LAW 2639 2679	Regulamentul delegat (UE) nr. 665 / 2014
+T29	ORG 2661 2663	UE
+T30	TIME 2675 2679	2014
+T31	LAW 3030 3100	Ordinului ministrului agriculturii și dezvoltării rurale nr. 52 / 2017
+T32	TIME 3096 3100	2017
+T33	ORG 3769 3786	Monitorul Oficial
+T34	LOC 3790 3798	României
+T35	PER 3858 3868	Petre Daea
+T36	LOC 3872 3881	București
+T37	TIME 3883 3899	14 ianuarie 2019

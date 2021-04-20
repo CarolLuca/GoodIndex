@@ -1,0 +1,41 @@
+T1	LAW 2 34	ORDIN nr. 940 / 944 / 650 / 2019
+T2	TIME 30 34	2019
+T3	ORG 503 543	Casei Naționale de Asigurări de Sănătate
+T4	TIME 566 570	2019
+T5	ORG 592 609	MONITORUL OFICIAL
+T6	TIME 622 635	10 iulie 2019
+T7	LAW 660 679	Legea nr. 95 / 2006
+T8	TIME 675 679	2006
+T9	LAW 801 835	Hotărârea Guvernului nr. 50 / 2015
+T10	ORG 811 821	Guvernului
+T11	TIME 831 835	2015
+T12	ORG 885 940	Autorității Naționale pentru Persoanele cu Dizabilități
+T13	LAW 1020 1054	Hotărârea Guvernului nr. 12 / 2017
+T14	ORG 1030 1040	Guvernului
+T15	TIME 1050 1054	2017
+T16	ORG 1091 1131	Ministerului Muncii și Justiției Sociale
+T17	LAW 1210 1245	Hotărârea Guvernului nr. 144 / 2010
+T18	ORG 1220 1230	Guvernului
+T19	TIME 1241 1245	2010
+T20	ORG 1282 1304	Ministerului Sănătății
+T21	LAW 1393 1428	Hotărârea Guvernului nr. 972 / 2006
+T22	ORG 1403 1413	Guvernului
+T23	TIME 1424 1428	2006
+T24	ORG 1457 1497	Casei Naționale de Asigurări de Sănătate
+T25	ORG 1666 1706	Casei Naționale de Asigurări de Sănătate
+T26	TIME 1719 1729	12.06.2019
+T27	TIME 1748 1758	25.06.2019
+T28	TIME 1776 1785	3.07.2019
+T29	ORG 1863 1903	Casei Naționale de Asigurări de Sănătate
+T30	ORG 2375 2415	Casei Naționale de Asigurări de Sănătate
+T31	TIME 2438 2442	2019
+T32	ORG 2456 2473	Monitorul Oficial
+T33	LOC 2477 2485	României
+T34	TIME 2509 2523	3 aprilie 2019
+T35	ORG 2925 2965	Casei Naționale de Asigurări de Sănătate
+T36	ORG 4510 4527	Monitorul Oficial
+T37	LOC 4531 4539	României
+T38	PER 4595 4609	Mergeani Nicea
+T39	PER 4653 4666	Sorina Pintea
+T40	ORG 4685 4725	Casei Naționale de Asigurări de Sănătate
+T41	PER 4729 4754	Răzvan Teohari Vulcănescu

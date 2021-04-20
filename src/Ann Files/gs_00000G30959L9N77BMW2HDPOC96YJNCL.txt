@@ -1,0 +1,56 @@
+T1	LAW 2 39	ORDIN nr. 1.362 din 28 decembrie 2018
+T2	TIME 22 39	28 decembrie 2018
+T3	ORG 252 269	MONITORUL OFICIAL
+T4	TIME 281 297	15 ianuarie 2019
+T5	LAW 317 381	Referatul de aprobare nr. 93.441 / DGDSCSP din 6 septembrie 2018
+T6	TIME 364 381	6 septembrie 2018
+T7	LAW 486 506	Legea nr. 249 / 2015
+T8	TIME 502 506	2015
+T9	LAW 662 696	Hotărârea Guvernului nr. 19 / 2017
+T10	ORG 672 682	Guvernului
+T11	TIME 692 696	2017
+T12	ORG 733 754	Ministerului Mediului
+T13	LAW 1340 1360	Legea nr. 249 / 2015
+T14	TIME 1356 1360	2015
+T15	ORG 1421 1483	Comisia de supraveghere a răspunderii extinse a producătorilor
+T16	LAW 1574 1594	Legea nr. 211 / 2011
+T17	TIME 1590 1594	2011
+T18	LAW 1819 1839	Legea nr. 249 / 2015
+T19	TIME 1835 1839	2015
+T20	ORG 1925 1946	Ministerului Mediului
+T21	ORG 1965 1973	Comisiei
+T22	ORG 1508 1515	Comisia
+T24	TIME 2120 2124	2018
+T25	LAW 2076 2124	Ordonanței de urgență a Guvernului nr. 74 / 2018
+T26	ORG 2100 2110	Guvernului
+T27	LAW 2159 2179	Legii nr. 211 / 2011
+T28	TIME 2175 2179	2011
+T29	LAW 2210 2230	Legii nr. 249 / 2015
+T30	TIME 2226 2230	2015
+T31	LAW 2312 2361	Ordonanței de urgență a Guvernului nr. 196 / 2005
+T32	ORG 2336 2346	Guvernului
+T33	TIME 2357 2361	2005
+T34	LAW 2495 2515	Legea nr. 249 / 2015
+T35	TIME 2511 2515	2015
+T36	LAW 2614 2662	Ordonanța de urgență a Guvernului nr. 196 / 2005
+T37	ORG 2637 2647	Guvernului
+T38	TIME 2658 2662	2005
+T39	LAW 2734 2754	Legea nr. 105 / 2006
+T40	TIME 2750 2754	2006
+T41	LAW 2850 2897	Ordonanța de urgență a Guvernului nr. 74 / 2018
+T42	ORG 2873 2883	Guvernului
+T43	TIME 2893 2897	2018
+T44	LAW 2985 3033	Ordonanței de urgență a Guvernului nr. 74 / 2018
+T45	ORG 3009 3019	Guvernului
+T46	TIME 3029 3033	2018
+T47	ORG 3094 3102	Comisiei
+T48	TIME 3212 3222	90 de zile
+T49	ORG 3275 3310	Administrația Fondului pentru Mediu
+T50	ORG 3603 3611	Comisiei
+T51	TIME 3628 3641	15 septembrie
+T52	ORG 3703 3720	Monitorul Oficial
+T53	LOC 3724 3732	României
+T54	ORG 3767 3785	ministrul mediului
+T55	PER 3788 3816	Laurențiu Adrian Neculaescu,
+T56	LOC 3836 3845	București
+T57	TIME 3847 3864	28 decembrie 2018

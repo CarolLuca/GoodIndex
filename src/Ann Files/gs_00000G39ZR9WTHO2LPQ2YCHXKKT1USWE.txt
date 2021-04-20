@@ -1,0 +1,68 @@
+T1	LAW 2 33	COMUNICAT din 18 decembrie 2018
+T2	TIME 16 33	18 decembrie 2018
+T3	LAW 122 154	Decizia nr. 52 din 18 iunie 2018
+T4	TIME 141 154	18 iunie 2018
+T5	ORG 170 205	Înalta Curte de Casație și Justiție
+T6	TIME 331 348	18 decembrie 2018
+T7	ORG 357 379	Curții Constituționale
+T8	LAW 422 442	Constituția României
+T9	LOC 434 442	României
+T10	LAW 491 510	Legea nr. 47 / 1992
+T11	TIME 506 510	1992
+T12	ORG 547 569	Curții Constituționale
+T13	LAW 652 677	Codul de procedură civilă
+T14	LAW 706 738	Decizia nr. 52 din 18 iunie 2018
+T15	TIME 725 738	18 iunie 2018
+T16	ORG 754 789	Înalta Curte de Casație și Justiție
+T17	LAW 885 903	Legea nr. 2 / 2013
+T18	TIME 899 903	2013
+T19	LAW 1020 1040	Legii nr. 134 / 2010
+T20	TIME 1036 1040	2010
+T21	LAW 1049 1074	Codul de procedură civilă
+T22	LAW 1240 1265	Codul de procedură civilă
+T23	LAW 1284 1309	Codul de procedură civilă
+T24	LAW 1462 1480	Legea nr. 2 / 2013
+T25	TIME 1476 1480	2013
+T26	TIME 1581 1598	31 decembrie 2018
+T27	LAW 1711 1731	Legea nr. 134 / 2010
+T28	TIME 1727 1731	2010
+T29	LAW 1740 1765	Codul de procedură civilă
+T30	LAW 2302 2327	Codul de procedură civilă
+T31	ORG 2531 2548	Monitorul Oficial
+T32	LOC 2552 2560	României
+T33	LAW 2693 2718	Codul de procedură civilă
+T34	LAW 2747 2779	Decizia nr. 52 din 18 iunie 2018
+T35	TIME 2766 2779	18 iunie 2018
+T36	ORG 2795 2830	Înalta Curte de Casație și Justiție
+T37	LAW 3024 3042	Legea nr. 2 / 2013
+T38	TIME 3038 3042	2013
+T39	LAW 3159 3179	Legii nr. 134 / 2010
+T40	TIME 3175 3179	2010
+T41	LAW 3188 3213	Codul de procedură civilă
+T42	LAW 3379 3404	Codul de procedură civilă
+T43	ORG 3460 3466	Curtea
+T44	ORG 3505 3530	Codul de procedură civilă
+T45	LAW 3559 3591	Decizia nr. 52 din 18 iunie 2018
+T46	TIME 3578 3591	18 iunie 2018
+T47	ORG 3607 3642	Înalta Curte de Casație și Justiție
+T48	LAW 3788 3819	Decizia nr. 369 din 30 mai 2017
+T49	TIME 3808 3819	30 mai 2017
+T50	LAW 3873 3884	Constituție
+T51	ORG 3951 3973	Curții Constițutionale
+T52	ORG 4189 4195	Curtea
+T53	ORG 4262 4284	Curții Constituționale
+T54	ORG 4552 4576	Camere ale Parlamentului
+T55	ORG 4578 4588	Guvernului
+T56	ORG 4632 4654	Curtea Constituțională
+T57	ORG 4666 4691	Curții de Apel Alba Iulia
+T58	LOC 4681 4691	Alba Iulia
+T59	ORG 4716 4737	Curții de Apel Brașov
+T60	LOC 4731 4737	Brașov
+T61	ORG 4755 4777	Curții de Apel Craiova
+T62	LOC 4770 4777	Craiova
+T63	LOC 4817 4826	Timișoara
+T64	LOC 4861 4870	București
+T65	LOC 4920 4926	Oradea
+T66	ORG 4802 4826	Curții de Apel Timișoara
+T67	ORG 4846 4870	Curții de Apel București
+T68	ORG 4905 4926	Curții de Apel Oradea

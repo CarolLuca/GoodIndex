@@ -1,0 +1,52 @@
+T1	LAW 2 34	ORDIN nr. 238 din 25 martie 2019
+T2	TIME 20 34	25 martie 2019
+T3	ORG 141 184	Agenției Naționale de Îmbunătățiri Funciare
+T4	ORG 249 335	Organizației utilizatorilor de apă pentru irigații Picătura Galicea din județul Vâlcea
+T5	LOC 321 336	județul Vâlcea
+T6	ORG 356 373	MONITORUL OFICIAL
+T7	TIME 386 400	27 martie 2019
+T8	LAW 425 465	Referatul de aprobare nr. 301.871 / 2019
+T9	TIME 461 465	2019
+T10	ORG 469 516	Direcției îmbunătățiri funciare și fond funciar
+T11	LAW 569 614	Legea îmbunătățirilor funciare nr. 138 / 2004
+T12	TIME 610 614	2004
+T13	LAW 706 740	Hotărârea Guvernului nr. 30 / 2017
+T14	ORG 716 726	Guvernului
+T15	TIME 736 740	2017
+T16	ORG 777 824	Ministerului Agriculturii și Dezvoltării Rurale
+T17	LAW 876 913	Hotărârea Guvernului nr. 1.186 / 2014
+T18	ORG 886 896	Guvernului
+T19	TIME 909 913	2014
+T20	ORG 950 1048	Autorității pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor
+T21	ORG 1261 1304	Agenției Naționale de Îmbunătățiri Funciare
+T22	ORG 1369 1455	Organizației utilizatorilor de apă pentru irigații Picătura Galicea din județul Vâlcea
+T23	LOC 1441 1455	județul Vâlcea
+T24	LAW 1615 1660	Legea îmbunătățirilor funciare nr. 138 / 2004
+T25	TIME 1656 1660	2004
+T26	TIME 2016 2022	5 zile
+T27	LAW 2146 2191	Legea îmbunătățirilor funciare nr. 138 / 2004
+T28	TIME 2187 2191	2004
+T29	ORG 2278 2321	Agenției Naționale de Îmbunătățiri Funciare
+T30	ORG 2640 2683	Agenției Naționale de Îmbunătățiri Funciare
+T31	TIME 2849 2859	30 de zile
+T32	LAW 3016 3061	Legea îmbunătățirilor funciare nr. 138 / 2004
+T33	TIME 3057 3061	2004
+T34	ORG 3166 3183	Monitorul Oficial
+T35	LOC 3187 3195	României
+T36	PER 3255 3265	Petre Daea
+T37	LOC 3267 3276	București
+T38	TIME 3278 3292	25 martie 2019
+T39	ORG 3454 3497	Agenției Naționale de Îmbunătățiri Funciare
+T40	ORG 3533 3619	Organizației utilizatorilor de apă pentru irigații Picătura Galicea din județul Vâlcea
+T41	LOC 3605 3619	județul Vâlcea
+T42	LAW 3672 3764	Ordinul ministrului finanțelor publice și al ministrului delegat pentru buget nr. 668 / 2014
+T43	TIME 3760 3764	2014
+T44	ORG 3964 4006	Agenția Națională de Îmbunătățiri Funciare
+T45	ORG 4020 4086	Organizația utilizatorilor de apă pentru irigații Picătura Galicea
+T46	LOC 4101 4110	Ostroveni
+T47	LOC 4119 4126	Galicea
+T48	LOC 4153 4167	județul Vâlcea
+T49	LAW 4184 4271	Registrul național al organizațiilor de îmbunătățiri funciare cu nr. 415 din 23.03.2009
+T50	TIME 4261 4271	23.03.2009
+T51	LOC 4367 4374	Galicea
+T52	LOC 4376 4390	județul Vâlcea

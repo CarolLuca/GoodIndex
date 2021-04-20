@@ -1,0 +1,63 @@
+T1	LAW 2 33	ORDIN nr. 392 din 17 iulie 2019
+T2	TIME 20 33	17 iulie 2019
+T3	ORG 143 186	Agenției Naționale de Îmbunătățiri Funciare
+T4	ORG 252 328	Organizației utilizatorilor de apă pentru irigații Liești din județul Galați
+T5	LOC 314 328	județul Galați
+T6	ORG 349 366	MONITORUL OFICIAL
+T7	TIME 379 393	18 iulie 2019
+T8	LAW 417 457	Referatul de aprobare nr. 303.287 / 2019
+T9	TIME 453 457	2019
+T10	ORG 461 508	Direcției îmbunătățiri funciare și fond funciar
+T11	LAW 561 606	Legea îmbunătățirilor funciare nr. 138 / 2004
+T12	TIME 602 606	2004
+T13	LAW 698 732	Hotărârea Guvernului nr. 30 / 2017
+T14	ORG 708 718	Guvernului
+T15	TIME 728 732	2017
+T16	ORG 769 816	Ministerului Agriculturii și Dezvoltării Rurale
+T17	LAW 868 905	Hotărârea Guvernului nr. 1.186 / 2014
+T18	ORG 878 888	Guvernului
+T19	TIME 901 905	2014
+T20	ORG 942 1040	Autorității pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor
+T21	ORG 1313 1356	Agenției Naționale de Îmbunătățiri Funciare
+T22	ORG 1382 1458	Organizației utilizatorilor de apă pentru irigații Liești din județul Galați
+T23	LOC 1444 1458	județul Galați
+T24	LAW 1655 1700	Legea îmbunătățirilor funciare nr. 138 / 2004
+T25	TIME 1696 1700	2004
+T26	LAW 2135 2180	Legea îmbunătățirilor funciare nr. 138 / 2004
+T27	TIME 2176 2180	2004
+T28	ORG 2255 2310	Patrimoniul Agenției Naționale de Îmbunătățiri Funciare
+T29	ORG 2631 2674	Agenției Naționale de Îmbunătățiri Funciare
+T30	LAW 3008 3053	Legea îmbunătățirilor funciare nr. 138 / 2004
+T31	TIME 3049 3053	2004
+T32	ORG 3158 3175	Monitorul Oficial
+T33	LOC 3179 3187	României
+T34	PER 3247 3257	Petre Daea
+T35	LOC 3260 3269	București
+T36	TIME 3271 3284	17 iulie 2019
+T37	ORG 3442 3485	Agenției Naționale de Îmbunătățiri Funciare
+T38	ORG 3520 3596	Organizației utilizatorilor de apă pentru irigații Liești din județul Galați
+T39	LOC 3582 3596	județul Galați
+T40	LAW 3649 3741	Ordinul ministrului finanțelor publice și al ministrului delegat pentru buget nr. 668 / 2014
+T41	TIME 3986 3990	2019
+T42	ORG 3990 4032	Agenția Națională de Îmbunătățiri Funciare
+T43	ORG 4045 4101	Organizația utilizatorilor de apă pentru irigații Liești
+T44	LOC 4110 4127	municipiul Galați
+T45	LOC 4129 4149	Str. Frunzei nr. 105
+T46	LOC 4151 4179	cartier Siderurgiștilor Vest
+T47	LOC 4181 4202	bl. 4C, sc. 3, ap. 57
+T48	LOC 4204 4218	județul Galați
+T49	LAW 4235 4320	Registrul național al organizațiilor de îmbunătățiri funciare cu nr. 644 / 11.06.2019
+T50	TIME 4316 4320	2019
+T51	LOC 4463 4479	Slobozia Conachi
+T52	LOC 4481 4495	județul Galați
+T53	LOC 4665 4681	Slobozia Conachi
+T54	LOC 4683 4697	județul Galați
+T55	LOC 4836 4852	Slobozia Conachi
+T56	LOC 4854 4868	județul Galați
+T57	LOC 4949 4965	Slobozia Conachi
+T58	LOC 4967 4981	județul Galați
+T59	TIME 2005 2011	5 zile
+T60	TIME 2841 2851	30 de zile
+T61	TIME 4526 4530	2019
+T62	TIME 4729 4733	2019
+T63	TIME 4898 4902	2016

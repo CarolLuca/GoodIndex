@@ -1,0 +1,55 @@
+T1	LAW 2 42	HOTĂRÂRE nr. 1.042 din 28 decembrie 2018
+T2	TIME 25 42	28 decembrie 2018
+T3	ORG 102 133	Ministerului Afacerilor Interne
+T4	ORG 136 218	Inspectoratul pentru Situații de Urgență "Mihail Grigore Sturza" al Județului Iași
+T5	LOC 204 218	Județului Iași
+T6	LAW 384 421	Hotărârea Guvernului nr. 1.705 / 2006
+T7	TIME 417 421	2006
+T8	ORG 529 546	MONITORUL OFICIAL
+T9	TIME 558 573	7 ianuarie 2019
+T10	LAW 625 659	Ordonanța Guvernului nr. 81 / 2003
+T11	ORG 635 645	Guvernului
+T12	TIME 655 659	2003
+T13	LAW 769 789	Legea nr. 493 / 2003
+T14	TIME 785 789	2003
+T15	LAW 868 903	Ordonanța Guvernului nr. 112 / 2000
+T16	ORG 878 888	Guvernului
+T17	TIME 899 903	2000
+T18	LAW 1110 1130	Legea nr. 246 / 2001
+T19	TIME 1126 1130	2001
+T20	LAW 1157 1177	Constituția României
+T21	LOC 1169 1177	României
+T22	LAW 1231 1251	Legea nr. 213 / 1998
+T23	TIME 1247 1251	1998
+T24	ORG 1335 1352	Guvernul României
+T25	LOC 1344 1352	României
+T26	ORG 1535 1566	Ministerului Afacerilor Interne
+T27	ORG 1569 1651	Inspectoratul pentru Situații de Urgență "Mihail Grigore Sturza" al Județului Iași
+T28	LOC 1637 1651	Județului Iași
+T29	ORG 1912 1943	Ministerului Afacerilor Interne
+T30	ORG 1946 2028	Inspectoratul pentru Situații de Urgență "Mihail Grigore Sturza" al Județului Iași
+T31	LOC 2014 2028	Județului Iași
+T32	ORG 2101 2130	Ministerul Afacerilor Interne
+T33	ORG 2225 2254	Ministerul Finanțelor Publice
+T34	LAW 2293 2330	Hotărârea Guvernului nr. 1.705 / 2006
+T35	ORG 2303 2313	Guvernului
+T36	TIME 2326 2330	2006
+T37	PER 2559 2584	VASILICA-VIORICA DĂNCILĂ
+T38	PER 2633 2651	Carmen Daniela Dan
+T39	PER 2684 2709	Eugen Orlando Teodorovici
+T40	LOC 2711 2720	București
+T41	TIME 2722 2739	28 decembrie 2018
+T42	ORG 2857 2888	Ministerului Afacerilor Interne
+T43	ORG 2891 2973	Inspectoratul pentru Situații de Urgență "Mihail Grigore Sturza" al județului Iași
+T44	LOC 2959 2973	județului Iași
+T45	LOC 3176 3188	Județul Iași
+T46	ORG 3188 3217	Ministerul Afacerilor Interne
+T47	ORG 3220 3302	Inspectoratul pentru Situații de Urgență "Mihail Grigore Sturza" al Județului Iași
+T48	LOC 3288 3302	Județului Iași
+T49	ORG 3404 3435	Ministerului Afacerilor Interne
+T50	ORG 3438 3519	Inspectoratul pentru Situații de Urgență "Mihail Grigore Sturza"al Județului Iași
+T51	LOC 3505 3519	Județului Iași
+T52	LOC 3940 3952	Județul Iași
+T53	ORG 3952 3981	Ministerul Afacerilor Interne
+T54	ORG 3985 4066	nspectoratul pentru Situații de Urgență "Mihail Grigore Sturza" al Județului Iași
+T55	LOC 4052 4066	Județului Iași

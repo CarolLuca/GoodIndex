@@ -1,0 +1,67 @@
+T1	LAW 2 41	HOTĂRÂRE nr. 710 din 19 septembrie 2019
+T2	TIME 23 41	19 septembrie 2019
+T3	LAW 81 118	Hotărârea Guvernului nr. 1.705 / 2006
+T4	TIME 114 118	2006
+T5	ORG 91 101	Guvernului
+T6	ORG 227 244	MONITORUL OFICIAL
+T7	TIME 257 275	24 septembrie 2019
+T8	LAW 328 362	Ordonanța Guvernului nr. 81 / 2003
+T9	ORG 338 348	Guvernului
+T10	TIME 358 362	2003
+T11	LAW 472 492	Legea nr. 493 / 2003
+T12	TIME 488 492	2003
+T13	LAW 563 583	Constituția României
+T14	LOC 575 583	României
+T15	ORG 657 667	Guvernului
+T16	LAW 634 681	Ordonanța de urgență a Guvernului nr. 57 / 2019
+T17	TIME 677 681	2019
+T18	ORG 740 748	Guvernul
+T19	LOC 749 757	României
+T20	ORG 886 905	Camerei Deputaților
+T21	LAW 1027 1064	Hotărârea Guvernului nr. 1.705 / 2006
+T22	ORG 1037 1047	Guvernului
+T23	TIME 1060 1064	2006
+T24	ORG 1247 1266	Camerei Deputaților
+T25	LAW 1388 1425	Hotărârea Guvernului nr. 1.705 / 2006
+T26	ORG 1398 1408	Guvernului
+T27	TIME 1421 1425	2006
+T28	ORG 1608 1627	Camerei Deputaților
+T29	LAW 1750 1787	Hotărârea Guvernului nr. 1.705 / 2006
+T30	ORG 1760 1770	Guvernului
+T31	TIME 1783 1787	2006
+T32	ORG 1884 1902	Camera Deputaților
+T33	ORG 1916 1945	Ministerul Finanțelor Publice
+T34	LAW 2063 2100	Hotărârea Guvernului nr. 1.705 / 2006
+T35	ORG 2073 2083	Guvernului
+T36	TIME 2096 2100	2006
+T37	PER 2238 2263	VASILICA-VIORICA DĂNCILĂ
+T38	ORG 2303 2322	Camerei Deputaților
+T39	PER 2325 2348	Silvia-Claudia Mihalcea
+T40	PER 2381 2406	Eugen Orlando Teodorovici
+T41	LOC 2408 2417	București
+T42	TIME 2419 2437	19 septembrie 2019
+T43	ORG 2554 2573	Camerei Deputaților
+T44	TIME 2820 2824	2011
+T45	LAW 2767 2824	Ordinului ministrului finanțelor publice nr. 1.718 / 2011
+T46	LOC 2932 2950	Str. Izvor nr. 2-4
+T47	TIME 2923 2932	6.11.2012
+T48	LOC 2952 2962	sectorul 5
+T49	LOC 2964 2973	București
+T50	LAW 2990 3045	Ordinul ministrului finanțelor publice nr. 1.718 / 2011
+T51	TIME 3041 3045	2011
+T52	ORG 3331 3350	Camerei Deputaților
+T53	LAW 3544 3601	Ordinului ministrului finanțelor publice nr. 1.718 / 2011
+T54	TIME 3597 3601	2011
+T55	LOC 3850 3868	Str. Izvor nr. 2-4
+T56	LOC 3870 3880	sectorul 5
+T57	LOC 3882 3891	București
+T58	LAW 3908 3963	Ordinul ministrului finanțelor publice nr. 1.718 / 2011
+T59	TIME 3959 3963	2011
+T60	ORG 4249 4268	Camerei Deputaților
+T61	LAW 4462 4519	Ordinului ministrului finanțelor publice nr. 1.718 / 2011
+T62	TIME 4515 4519	2011
+T63	LOC 4712 4730	Str. Izvor nr. 2-4
+T64	LOC 4732 4742	sectorul 5
+T65	LOC 4744 4753	București
+T66	LAW 4768 4823	Ordinul ministrului finanțelor publice nr. 1.718 / 2011
+T67	TIME 4819 4823	2011

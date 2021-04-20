@@ -1,0 +1,150 @@
+AMENDAMENT din 19 martie 2019
+LAW
+19 martie 2019
+TIME
+Guvernul
+ORG
+României
+LOC
+Banca de Dezvoltare a Consiliului Europei
+ORG
+București
+LOC
+15 noiembrie 2018
+TIME
+Paris
+LOC
+3 decembrie 2018
+TIME
+România
+LOC
+Banca de Dezvoltare a Consiliului Europei
+ORG
+România
+LOC
+București
+LOC
+11 iulie 2003
+TIME
+MONITORUL OFICIAL
+ORG
+26 martie 2019
+TIME
+Hotărârea Guvernului nr. 148 din 19 martie 2019
+LAW
+Guvernului
+ORG
+19 martie 2019
+TIME
+Monitorul Oficial
+ORG
+26 martie 2019
+TIME
+ROMÂNIA
+LOC
+MINISTERUL FINANȚELOR PUBLICE
+ORG
+15 noiembrie 2018
+TIME
+Banca de Dezvoltare a Consiliului Europei
+ORG
+Direcția generală pentru împrumuturi și dezvoltare socială
+ORG
+2002
+TIME
+Poirel
+PER
+Unității de management al proiectelor pentru modernizarea rețelei școlare și universitare
+ORG
+UMPMRȘU
+ORG
+Ministerului Educației Naționale
+ORG
+MEN
+ORG
+26 octombrie
+TIME
+Școala cu clasele I-VIII Bicaz-Chei
+ORG
+județul Neamț
+LOC
+Școala cu clasele I-VIII Dragomirești
+ORG
+județul Neamț
+LOC
+MEN
+ORG
+UMPMRȘU
+ORG
+MEN
+ORG
+UMPMRȘU
+ORG
+31 decembrie 2018
+TIME
+MEN
+ORG
+decembrie 2018
+TIME
+august 2019
+TIME
+MEN
+ORG
+octombrie 2003
+TIME
+august 2019
+TIME
+Attila György
+PER
+BDCE
+ORG
+Banca de Dezvoltare a Consiliului Europei
+ORG
+Direcția generală pentru împrumuturi și dezvoltare socială
+ORG
+Attila György
+PER
+Thierry Poirel
+PER
+Ministerul Finanțelor Publice
+ORG
+Bulevardul Libertății nr. 16
+LOC
+București
+LOC
+030167
+LOC
+ROMÂNIA
+LOC
+Paris
+LOC
+3 decembrie 2018
+TIME
+2002
+TIME
+11 iulie 2003
+TIME
+György
+PER
+15 noiembrie 2018
+TIME
+2002
+TIME
+Ministerului Educației Naționale
+ORG
+BDCE
+ORG
+31 august 2019
+TIME
+Melanie Wieschollek-Lacroix
+PER
+Departamentul de asistență operațiuni
+ORG
+Thierry Poirel
+PER
+Împrumuturi și dezvoltare socială
+ORG
+Boni Cucu
+PER
+Ministerul Finanțelor Publice
+ORG

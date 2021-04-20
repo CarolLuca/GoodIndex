@@ -1,0 +1,56 @@
+T1	LAW 2 40	HOTĂRÂRE nr. 795 din 4 noiembrie 2019
+T2	TIME 23 39	4 noiembrie 2019
+T3	LAW 89 126	Hotărârea Guvernului nr. 1.357 / 2001
+T4	ORG 99 109	Guvernului
+T5	TIME 122 126	2001
+T6	LOC 166 183	județului Suceava
+T7	LOC 238 253	județul Suceava
+T8	ORG 274 291	MONITORUL OFICIAL
+T9	TIME 304 320	6 noiembrie 2019
+T10	LAW 348 368	Constituția României
+T11	LAW 412 459	Ordonanța de urgență a Guvernului nr. 57 / 2019
+T12	ORG 435 445	Guvernului
+T13	TIME 455 459	2019
+T14	ORG 518 526	Guvernul
+T15	LOC 527 535	României
+T16	LAW 579 616	Hotărârea Guvernului nr. 1.357 / 2001
+T17	ORG 589 599	Guvernului
+T18	TIME 612 616	2001
+T19	LOC 656 673	județului Suceava
+T20	LOC 728 743	județul Suceava
+T21	ORG 758 775	Monitorul Oficial
+T22	LOC 779 787	României
+T23	TIME 822 836	30 august 2002
+T24	LOC 1236 1258	localitatea Mestecăniș
+T25	LOC 1260 1285	Strada Fermierilor nr. 14
+T26	LOC 1344 1361	Strada Fermierilo
+T27	LOC 1368 1410	proprietate particulară și comuna Iacobeni
+T28	LOC 1416 1431	comuna Iacobeni
+T29	LAW 1699 1766	Hotărârea Consiliului Local al Comunei Iacobeni nr. 21 / 08.04.2019
+T30	LOC 1730 1746	Comunei Iacobeni
+T31	TIME 1756 1766	08.04.2019
+T32	LAW 1768 1802	cartea funciară nr. 31614 Iacobeni
+T33	LOC 1794 1802	Iacobeni
+T34	LOC 1982 2004	localitatea Mestecăniș
+T35	LOC 2006 2031	Strada Fermierilor nr. 14
+T36	LOC 2087 2104	Strada Fermierilo
+T37	LOC 2111 2153	proprietate particulară și comuna Iacobeni
+T38	LOC 2159 2174	comuna Iacobeni
+T39	TIME 2266 2270	1995
+T40	LAW 2319 2386	Hotărârea Consiliului Local al Comunei Iacobeni nr. 21 / 08.04.2019
+T41	ORG 2329 2366	Consiliului Local al Comunei Iacobeni
+T42	LOC 2350 2366	Comunei Iacobeni
+T43	TIME 2371 2386	21 / 08.04.2019
+T44	LAW 2388 2422	cartea funciară nr. 31614 Iacobeni
+T45	LOC 2414 2422	Iacobeni
+T46	ORG 1709 1746	Consiliului Local al Comunei Iacobeni
+T47	LOC 2518 2531	Vicovu de Sus
+T48	LOC 2673 2686	comunei Coșna
+T49	PER 2846 2871	VASILICA-VIORICA DĂNCILĂ
+T50	PER 2968 2987	Vasile-Daniel Suciu
+T51	LOC 2989 2998	București
+T52	TIME 3000 3016	4 noiembrie 2019
+T53	LOC 3106 3119	comunei Coșna
+T54	LOC 4349 4362	comunei Coșna
+T55	LAW 4373 4414	Hotărârii Consiliului Local nr. 31 / 2019
+T56	TIME 4410 4414	2019

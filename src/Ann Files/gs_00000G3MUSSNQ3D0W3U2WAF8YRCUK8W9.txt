@@ -1,0 +1,72 @@
+T1	LAW 2 29	COMUNICAT din 27 iunie 2019
+T2	TIME 16 29	27 iunie 2019
+T3	LAW 62 109	Ordonanța de urgență a Guvernului nr. 83 / 2014
+T4	TIME 105 109	2014
+T5	ORG 85 95	Guvernului
+T6	ORG 144 179	Înalta Curte de Casație și Justiție
+T7	LAW 239 260	Decizia nr. 23 / 2016
+T8	TIME 256 260	2016
+T9	LAW 303 350	Ordonanța de urgență a Guvernului nr. 57 / 2015
+T10	ORG 326 336	Guvernului
+T11	TIME 346 350	2015
+T12	LAW 366 413	Ordonanța de urgență a Guvernului nr. 20 / 2016
+T13	ORG 389 399	Guvernului
+T14	TIME 409 413	2016
+T15	TIME 498 502	2018
+T16	TIME 546 550	2019
+T17	TIME 582 592	27.06.2019
+T18	LAW 775 822	Ordonanța de urgență a Guvernului nr. 83 / 2014
+T19	ORG 798 808	Guvernului
+T20	TIME 818 822	2014
+T21	LAW 866 885	Legea nr. 71 / 2015
+T22	TIME 881 885	2015
+T23	ORG 964 999	Înalta Curte de Casație și Justiție
+T24	LAW 1059 1080	Decizia nr. 23 / 2016
+T25	TIME 1076 1080	2016
+T26	LAW 1123 1170	Ordonanța de urgență a Guvernului nr. 57 / 2015
+T27	ORG 1146 1156	Guvernului
+T28	TIME 1166 1170	2015
+T29	LAW 1186 1233	Ordonanța de urgență a Guvernului nr. 20 / 2016
+T30	ORG 1209 1219	Guvernului
+T31	TIME 1229 1233	2016
+T32	TIME 1707 1722	1 ianuarie 2010
+T33	LAW 2147 2184	deciziei nr. 51 din 11 noiembrie 2019
+T34	TIME 2167 2184	11 noiembrie 2019
+T35	ORG 2262 2282	Curtea de Apel Bacău
+T36	TIME 2373 2377	2018
+T37	LAW 2461 2508	Ordonanța de urgență a Guvernului nr. 83 / 2014
+T38	ORG 2484 2494	Guvernului
+T39	TIME 2504 2508	2014
+T40	TIME 2577 2581	2015
+T41	LAW 2682 2701	Legea nr. 71 / 2015
+T42	TIME 2697 2701	2015
+T43	LAW 2776 2823	Ordonanța de urgență a Guvernului nr. 57 / 2015
+T44	ORG 2799 2809	Guvernului
+T45	TIME 2819 2823	2015
+T46	TIME 2892 2896	2016
+T47	LAW 3439 3486	Ordonanța de urgență a Guvernului nr. 83 / 2014
+T48	ORG 3462 3472	Guvernului
+T49	TIME 3482 3486	2014
+T50	TIME 3555 3559	2015
+T51	LAW 3660 3679	Legea nr. 71 / 2015
+T52	TIME 3675 3679	2015
+T53	ORG 3758 3793	Înalta Curte de Casație și Justiție
+T54	LAW 3853 3890	Decizia nr. 23 din 26 septembrie 2016
+T55	TIME 3872 3890	26 septembrie 2016
+T56	ORG 3905 3922	Monitorul Oficial
+T57	LOC 3926 3934	României
+T58	TIME 3958 3974	9 noiembrie 2016
+T59	LAW 4012 4059	Ordonanța de urgență a Guvernului nr. 57 / 2015
+T60	ORG 4035 4045	Guvernului
+T61	TIME 4055 4059	2015
+T62	TIME 4128 4132	2016
+T63	LAW 4257 4304	Ordonanța de urgență a Guvernului nr. 20 / 2016
+T64	LOC 4280 4290	Guvernului
+T65	TIME 4300 4304	2016
+T66	LAW 4339 4387	Ordonanței de urgență a Guvernului nr. 57 / 2015
+T67	ORG 4363 4373	Guvernului
+T68	TIME 4383 4387	2015
+T69	TIME 4456 4460	2016
+T70	LAW 4626 4646	Legea nr. 250 / 2016
+T71	TIME 4642 4646	2016
+T72	TIME 5105 5120	1 ianuarie 2010

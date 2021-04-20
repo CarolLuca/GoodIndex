@@ -1,0 +1,39 @@
+T1	LAW 2 34	LEGE nr. 15 din 15 ianuarie 2020
+T2	TIME 18 34	15 ianuarie 2020
+T3	ORG 55 84	Muzeului Național "Brătianu"
+T4	ORG 153 164	Parlamentul
+T5	LOC 165 173	României
+T6	ORG 227 253	Muzeul Național "Brătianu"
+T7	ORG 104 121	MONITORUL OFICIAL
+T8	TIME 133 149	16 ianuarie 2020
+T9	ORG 370 391	Ministerului Culturii
+T10	LOC 492 502	Ștefănești
+T11	LOC 512 517	Argeș
+T12	PER 949 957	Brătianu
+T13	PER 1779 1787	Brătianu
+T14	LOC 2240 2248	României
+T15	PER 2216 2224	Brătianu
+T16	PER 2545 2553	Brătianu
+T17	ORG 2878 2899	Ministerului Culturii
+T18	LAW 3087 3136	Ordonanței de urgență a Guvernului nr. 189 / 2008
+T19	ORG 3111 3121	Guvernului
+T20	TIME 3132 3136	2008
+T21	LAW 3234 3254	Legea nr. 269 / 2009
+T22	TIME 3250 3254	2009
+T23	LAW 3390 3444	Legii muzeelor și a colecțiilor publice nr. 311 / 2003
+T24	TIME 3440 3444	2003
+T25	LAW 3473 3522	Ordonanței de urgență a Guvernului nr. 189 / 2008
+T26	ORG 3497 3507	Guvernului
+T27	TIME 3518 3522	2008
+T28	ORG 3729 3772	Comisia Națională a Muzeelor și Colecțiilor
+T29	ORG 3841 3858	Monitorul Oficial
+T30	LOC 3862 3870	României
+T31	TIME 3940 3956	1 februarie 2020
+T32	ORG 3991 4002	Parlamentul
+T33	LOC 4003 4011	României
+T34	LAW 4078 4098	Constituția României
+T35	LOC 4090 4098	României
+T36	PER 4148 4166	ION-MARCEL CIOLACU
+T37	PER 4192 4215	TEODOR-VIOREL MELEȘCANU
+T38	LOC 4217 4226	București
+T39	TIME 4228 4244	15 ianuarie 2020
